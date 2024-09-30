@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 I’m currently working on TLDR-it;<br>🌱 I’m currently learning web accessibility;<br>💬 Ask me about anything, I am happy to help;<br>📫 How to reach me: mkhaitirchiekh@gmail.com;
+👨🏽‍💻 I’m currently working on TLDR-it<br>🌱 I’m currently learning web accessibility<br>💬 Ask me about anything, I am happy to help<br>📫 How to reach me: mkhaitirchiekh@gmail.com
 
 
 ## 🌐 Socials:
